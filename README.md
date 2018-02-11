@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Boots Portfolio Page
+Bootstrap Portfolio Page
